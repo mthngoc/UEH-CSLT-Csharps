@@ -10,9 +10,4 @@
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Session06\" />
-    <Folder Include="Session05\" />
-  </ItemGroup>
-
 </Project>
